@@ -1,0 +1,1656 @@
+--Load
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/hakaiofc/Base/main/HUBORION')))()
+
+--Main Script
+local Window = OrionLib:MakeWindow({Name = "Hakai-HubPriv", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroEnabled = false})
+
+--Valor
+_G.AutoHealth = True
+
+--Função
+function AutoHealth()
+while _G.AutoHealth == true do
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+wait(0.00000000000000000001)
+end
+end
+
+
+
+
+--Valor
+_G.AutoVida = True
+
+--Função
+function AutoVida()
+while _G.AutoVida == true do
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+wait(0.00000000000000000001)
+end
+end
+
+
+
+
+
+
+--Valor
+_G.AutoVD = True
+
+--Função
+function AutoVD()
+while _G.AutoVD == true do
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+
+local args = {
+    [1] = "GiveHealthCuzPro",
+    [2] = 2,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Lutero"):FireServer(unpack(args))
+wait(0.00000000000000000001)
+end
+end
+
+
+
+
+
+--Main
+local FarmTab= Window:MakeTab({
+    Name = "Main",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+local Section = FarmTab:AddSection({
+    Name = "AutoFarm"
+})
+FarmTab:AddToggle({
+    Name = "Auto-Health",
+    Default = false,
+    Callback = function(Value)
+        _G.AutoHealth = Value
+        AutoHealth(0.0000000000000000000001)
+    end
+})
+
+
+
+
+--Main
+local AutoTab= Window:MakeTab({
+    Name = "Main2",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+local Section = AutoTab:AddSection({
+    Name = "AutoFarm2"
+})
+AutoTab:AddToggle({
+    Name = "Auto-Health2",
+    Default = false,
+    Callback = function(Value)
+        _G.AutoVida = Value
+        AutoVida(0.0000000000000000000001)
+    end
+})
+
+
+
+
+
+--Main
+local Vida3Tab= Window:MakeTab({
+    Name = "Main3",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+local Section = Vida3Tab:AddSection({
+    Name = "AutoFarm3"
+})
+Vida3Tab:AddToggle({
+    Name = "Auto-Health3",
+    Default = false,
+    Callback = function(Value)
+        _G.AutoVD = Value
+        AutoVD(0.0000000000000000000001)
+    end
+})
